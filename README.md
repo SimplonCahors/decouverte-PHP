@@ -61,10 +61,10 @@ La page de contact contient un formulaire demandant à l'utilisateur de saisir :
 - Son age
 - Un thème (à choisir parmis une liste pré-définie)
 
-Nous vouslons aussi savoir si l'utilisateur est un utilisateur connecté ou non
+Nous voulons aussi savoir si l'utilisateur est un utilisateur connecté ou non.
 Chaque demande de contact sera stocké en base de données.  
 
-**Bonus:** L'utisateur ne doit pas pouvoir saisir "Simplon" dans l'objet de son message
+**Bonus:** L'utilisateur ne doit pas pouvoir saisir "Simplon" dans l'objet de son message
 
 ## Inscription
 Pour la création d'un compte, l'utilisateur doit choisir un nom d'utilisateur et un mot de passe.
