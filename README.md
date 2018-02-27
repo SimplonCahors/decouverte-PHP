@@ -52,7 +52,7 @@ Un événement contient :
 - Une date de publication
 
 La page Evénéments liste uniquement les événements à venir ou en cours.
-Seul les utilisateurs connectés peuvent accéder à cette liste d'événements
+Seul les utilisateurs connectés peuvent accéder à cette liste d'événements, si je ne suis pas connecté, je dois être redirigé sur la page de log in.
 
 **Bonus:** Permettre à l'utilisateur de filtrer la liste des événements par lieu
 
