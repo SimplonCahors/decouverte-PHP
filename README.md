@@ -36,6 +36,8 @@ Au clic sur un billet de blog amène sur l'article complet (Article de blog).
 
 **Bonus:** L'utilisateur doit pourvoir changer l'ordre d'affichage des billets de blog (croissant ou décroissant sur la date de publication).
 
+**Bonus:** Ajouter un pager pour afficher que 5 articles par page
+
 ## Article de blog
 La page artile de blog affiche le contenu complet d'un billet.
 
